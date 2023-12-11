@@ -1,0 +1,16 @@
+C:\Users\furkan\source\repos\OneriPlatForm\OneriPlatform.DataAcsessLayer\bin\Debug\OneriPlatform.DataAcsessLayer.dll.config
+C:\Users\furkan\source\repos\OneriPlatForm\OneriPlatform.DataAcsessLayer\bin\Debug\OneriPlatform.DataAcsessLayer.dll
+C:\Users\furkan\source\repos\OneriPlatForm\OneriPlatform.DataAcsessLayer\bin\Debug\OneriPlatform.DataAcsessLayer.pdb
+C:\Users\furkan\source\repos\OneriPlatForm\OneriPlatform.DataAcsessLayer\bin\Debug\EntityFramework.dll
+C:\Users\furkan\source\repos\OneriPlatForm\OneriPlatform.DataAcsessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\furkan\source\repos\OneriPlatForm\OneriPlatform.DataAcsessLayer\bin\Debug\OneriPlatform.Core.dll
+C:\Users\furkan\source\repos\OneriPlatForm\OneriPlatform.DataAcsessLayer\bin\Debug\OneriPlatform.Entities.dll
+C:\Users\furkan\source\repos\OneriPlatForm\OneriPlatform.DataAcsessLayer\bin\Debug\OneriPlatform.Core.pdb
+C:\Users\furkan\source\repos\OneriPlatForm\OneriPlatform.DataAcsessLayer\bin\Debug\OneriPlatform.Entities.pdb
+C:\Users\furkan\source\repos\OneriPlatForm\OneriPlatform.DataAcsessLayer\bin\Debug\EntityFramework.xml
+C:\Users\furkan\source\repos\OneriPlatForm\OneriPlatform.DataAcsessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\furkan\source\repos\OneriPlatForm\OneriPlatform.DataAcsessLayer\obj\Debug\OneriPlatform.DataAcsessLayer.csproj.AssemblyReference.cache
+C:\Users\furkan\source\repos\OneriPlatForm\OneriPlatform.DataAcsessLayer\obj\Debug\OneriPlatform.DataAcsessLayer.csproj.CoreCompileInputs.cache
+C:\Users\furkan\source\repos\OneriPlatForm\OneriPlatform.DataAcsessLayer\obj\Debug\OneriPlatform.DataAcsessLayer.csproj.CopyComplete
+C:\Users\furkan\source\repos\OneriPlatForm\OneriPlatform.DataAcsessLayer\obj\Debug\OneriPlatform.DataAcsessLayer.dll
+C:\Users\furkan\source\repos\OneriPlatForm\OneriPlatform.DataAcsessLayer\obj\Debug\OneriPlatform.DataAcsessLayer.pdb

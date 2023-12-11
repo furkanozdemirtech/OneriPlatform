@@ -1,0 +1,6 @@
+C:\Users\furkan\source\repos\OneriPlatForm\OneriPlatform.Entities\bin\Debug\OneriPlatform.Entities.dll
+C:\Users\furkan\source\repos\OneriPlatForm\OneriPlatform.Entities\bin\Debug\OneriPlatform.Entities.pdb
+C:\Users\furkan\source\repos\OneriPlatForm\OneriPlatform.Entities\obj\Debug\OneriPlatform.Entities.csproj.AssemblyReference.cache
+C:\Users\furkan\source\repos\OneriPlatForm\OneriPlatform.Entities\obj\Debug\OneriPlatform.Entities.csproj.CoreCompileInputs.cache
+C:\Users\furkan\source\repos\OneriPlatForm\OneriPlatform.Entities\obj\Debug\OneriPlatform.Entities.dll
+C:\Users\furkan\source\repos\OneriPlatForm\OneriPlatform.Entities\obj\Debug\OneriPlatform.Entities.pdb
